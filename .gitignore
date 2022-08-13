@@ -1,0 +1,4 @@
+.vs/**
+Debug/**
+x64/**
+CHIP-8.vcxproj.user
